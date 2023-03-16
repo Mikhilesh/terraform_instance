@@ -1,0 +1,2 @@
+variable "group_name" {}
+
